@@ -1,7 +1,7 @@
 ![Logo](https://raw.githubusercontent.com/foobnix/LirbiReader/master/logo.jpg)
 
 
-# Librera Reader
+# Kindly is a Fork of Librera Reader
 
 Librera Reader is an e-book reader for Android devices; 
 it supports the following formats: PDF, EPUB, EPUB3, MOBI, DjVu, FB2, TXT, RTF, AZW, AZW3, HTML, CBZ, CBR, DOC, DOCX, and OPDS Catalogs
